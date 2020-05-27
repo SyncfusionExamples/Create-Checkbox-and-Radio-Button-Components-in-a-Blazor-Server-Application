@@ -7,7 +7,7 @@ Watch a How-to Video:
 Documentation: https://blazor.syncfusion.com/documentation/check-box/getting-started
 https://blazor.syncfusion.com/documentation/radio-button/getting-started
 
-Online example: https://blazor.syncfusion.com/demos/buttons/checkbox
+Online example: https://blazor.syncfusion.com/demos/buttons/checkbox 
 https://blazor.syncfusion.com/demos/buttons/radio-button
 
 ## Project prerequisites
