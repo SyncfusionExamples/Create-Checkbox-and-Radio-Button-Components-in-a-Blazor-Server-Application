@@ -37,7 +37,7 @@ The Blazor Checkbox component ships with several built-in themes such as Tailwin
 
 ## Forms support
 
-Seamlessly supports HTML forms, and reactive forms
+Seamlessly supports HTML forms, and reactive forms.
 
 ## Tri-state or indeterminate checkbox
 
