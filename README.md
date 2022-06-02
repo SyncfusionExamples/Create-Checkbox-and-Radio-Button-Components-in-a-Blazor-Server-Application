@@ -34,7 +34,7 @@ To run this application, you need to first clone or download this ‘Create Chec
 
 [Documentation](https://blazor.syncfusion.com/documentation/radio/button/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-radio-button-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/radio/button/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-radio-button-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/Create-Checkbox-and-Radio-Button-Components-in-a-Blazor-Server-Application?utm_source=github&utm_medium=listing&utm_campaign=blazor-radio-button-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-radio-button-github-samples)
 
