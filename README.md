@@ -1,15 +1,6 @@
 # Create Checkbox and Radio Button Components in a Blazor Server Application
 
-This is a quick-start project provided by Syncfusion that helps you create a Blazor Checkbox and Radio Button. This example first explains how to create a Blazor application and add the Syncfusion Blazor package. It then shows how to add the Syncfusion Blazor Checkbox and Radio Button components to the Blazor server application, show a Checkbox in checked and intermediate states, and disable the components. You’ll also learn how to add a Radio Button, group Radio Buttons, and show a Radio Button in a selected state.
-
-Watch a How-to Video: https://www.syncfusion.com/tutorial-videos/blazor/checkbox?title=create-checkbox-and-radio-button-components-in-a-blazor
-
-Documentation: https://blazor.syncfusion.com/documentation/check-box/getting-started
-https://blazor.syncfusion.com/documentation/radio-button/getting-started
-
-Online example: https://blazor.syncfusion.com/demos/buttons/checkbox 
-
-https://blazor.syncfusion.com/demos/buttons/radio-button
+The [Blazor Radio Button](https://www.syncfusion.com/blazor-components/blazor-radio-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github) is a custom radio-type HTML5 input component for selecting one option from a list of predefined choices. This is a quick-start project provided by Syncfusion that helps you create a Blazor Checkbox and Radio Button. This example first explains how to create a Blazor application and add the Syncfusion Blazor package. It then shows how to add the Syncfusion Blazor Checkbox and Radio Button components to the Blazor server application, show a Checkbox in checked and intermediate states, and disable the components. You’ll also learn how to add a Radio Button, group Radio Buttons, and show a Radio Button in a selected state.
 
 ## Project prerequisites
 Make sure that you have compatible versions of .NET Core on your machine before starting to work on this project. You also need the following:
@@ -23,6 +14,20 @@ To run this application, you need to first clone or download this ‘Create Chec
 
 * For queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github) or post the queries through the [community forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github). 
 * Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github).
+
+## Features and Benefits
+
+## Forms support
+
+Seamlessly supports HTML forms, template-driven forms (Angular), and reactive forms.
+
+## Custom/Fancy Radio Button
+
+The Blazor Radio Button UI (inner and outer circles) has the support for complete customization of its appearance.
+
+## Radio Button Sizes
+
+You can make use of the different sizes of radio button (default and small) as required in your application.
 
 ## Related links
 
@@ -52,7 +57,7 @@ To run this application, you need to first clone or download this ‘Create Chec
 This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github).
 
 ### About Syncfusion Blazor Components
-The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Radio Button, we provide popular Blazor Components such as DataGrid, Chart, Scheduler, Diagram and Word Processor.
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-lists-github) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Radio Button, we provide popular Blazor Components such as DataGrid, Chart, Scheduler, Diagram and Word Processor.
 
 
 ### About Syncfusion
