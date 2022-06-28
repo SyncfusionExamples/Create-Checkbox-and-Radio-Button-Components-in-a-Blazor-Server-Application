@@ -12,8 +12,7 @@ To run this application, you need to first clone or download this ‘Create Chec
 
 ## Further help
 
-* For queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=blazor-radio-button-github-samples) or post the queries through the [community forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-radio-button-github-samples). 
-* Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-radio-button-github-samples).
+For more help, check the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor).
 
 ## Features and Benefits
 
