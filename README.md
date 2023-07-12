@@ -47,9 +47,9 @@ The Blazor Checkbox component also features a built-in indeterminate state for o
 
 [Learn More about Blazor Checkbox](https://www.syncfusion.com/blazor-components/blazor-checkbox?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/blazor/confirm?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
 
 [Documentation](https://blazor.syncfusion.com/documentation/check-box/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
 
@@ -63,11 +63,11 @@ The Blazor Checkbox component also features a built-in indeterminate state for o
 
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/checkbox?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
 
-[Knowledge Base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
+[Knowledge Base](https://support.syncfusion.com/kb/web/category/67?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples)
 
 ### About Syncfusion Blazor Components
 
-The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Checkbox, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples).
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Checkbox, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples).
 
 ### About Syncfusion
 
