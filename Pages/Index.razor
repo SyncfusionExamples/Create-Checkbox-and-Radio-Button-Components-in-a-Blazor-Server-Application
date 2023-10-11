@@ -1,14 +1,18 @@
 ﻿@page "/"
-@using Syncfusion.Blazor.Buttons
 
-<SfCheckBox Label="Default" Disabled="true" Indeterminate="true" LabelPosition="LabelPosition.Before"></SfCheckBox>
+<SfCheckBox Label="Default" Disabled="true" Checked="true" LabelPosition="LabelPosition.After"></SfCheckBox>
 
 <div class="radio-control">
-    <SfRadioButton LabelPosition="RadioLabelPosition.Before" Label="Cash on Delivery" Name="payment" Value="cashondelivery" Disabled="true"></SfRadioButton>
-    <SfRadioButton LabelPosition="RadioLabelPosition.Before" Label="Credit/Debit Card" Name="payment" Value="credit/debit"></SfRadioButton>
-    <SfRadioButton LabelPosition="RadioLabelPosition.Before" Label="Net Banking" Name="payment" Value="netbanking"></SfRadioButton>
-    <SfRadioButton LabelPosition="RadioLabelPosition.Before" Label="Other Wallets" Name="payment" Value="others"></SfRadioButton>
+    <SfRadioButton Label="Cash On Delievery" LabelPosition="LabelPosition.Before" Name="payment" Value="cashondelievery" @bind-Checked="stringChecked" Disabled="true"></SfRadioButton>
+    <SfRadioButton Label="Net Banking" Name="payment" LabelPosition="LabelPosition.Before" Value="netbanking" @bind-Checked="stringChecked"></SfRadioButton>
+    <SfRadioButton Label="Credit/Debit Card" Name="payment" LabelPosition="LabelPosition.Before" Value="credit/debit" @bind-Checked="stringChecked"></SfRadioButton>
+    <SfRadioButton Label="Other Wallets" Name="payment" LabelPosition="LabelPosition.Before" Value="otherwallets" @bind-Checked="stringChecked"></SfRadioButton>
 </div>
+
+
+@code {
+    private string stringChecked = "netbanking";
+}
 
 <style>
     .radio-control {

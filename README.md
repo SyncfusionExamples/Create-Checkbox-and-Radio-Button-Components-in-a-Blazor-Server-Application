@@ -1,13 +1,17 @@
 # Create Checkbox and Radio Button Components in a Blazor Server Application
+
 [Blazor Checkbox](https://www.syncfusion.com/blazor-components/blazor-checkbox?utm_source=github&utm_medium=listing&utm_campaign=blazor-checkbox-github-samples) is a custom checkbox-type HTML5 input component for selecting one or more options from a list of predefined choices. This is a quick-start project provided by Syncfusion that helps you create a Blazor Checkbox and Radio Button. This example first explains how to create a Blazor application and add the Syncfusion Blazor package. It then shows how to add the Syncfusion Blazor Checkbox and Radio Button components to the Blazor server application, show a Checkbox in checked and intermediate states, and disable the components. You’ll also learn how to add a Radio Button, group Radio Buttons, and show a Radio Button in a selected state.
 
-## Project prerequisites
-Make sure that you have compatible versions of .NET Core on your machine before starting to work on this project. You also need the following:
-* [Visual Studio 2019 (version 16.4+)]( https://visualstudio.microsoft.com/downloads)
-* [.NET Core SDK 3.1.201+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+## Prerequisites
 
-## How to run this application
-To run this application, you need to first clone or download this ‘Create Checkbox and Radio Button Components in a Blazor Server Application repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Further help
 
